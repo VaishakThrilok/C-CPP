@@ -1,6 +1,6 @@
 Name                 Marks      Cgpa       Course              
 _________________________________________________________________
-Vaishak              97         3.20       Computer Engineering
-Sushank              99         3.80       Computer Engineering
-Thrilok              95         3.10       Business Administration
-Nagaveni             98         3.80       Business Administration
+Stu1              97         3.20       Computer Engineering
+Stu2              99         3.80       Computer Engineering
+Stu3              95         3.10       Business Administration
+Stu4             98         3.80       Business Administration
