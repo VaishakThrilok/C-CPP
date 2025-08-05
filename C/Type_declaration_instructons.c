@@ -1,0 +1,21 @@
+#include<stdio.h>
+
+int main() {
+    int age = 22;
+    int oldAge = age;
+    int newAge = oldAge + 2;
+
+    printf("new age is: %d\n", newAge);
+
+    int rupee = 1, dollar;
+    dollar = 74;
+
+    // Valid multiple declaration
+    int age1, age2, age3;
+    age1 = age2 = age3 = 22;
+
+    // Invalid declaration (commented out)
+    // int a1 = a2 = a3 = 22;
+
+    return 0;
+}
