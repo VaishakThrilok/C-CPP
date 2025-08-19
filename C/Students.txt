@@ -1,0 +1,7 @@
+Name		Marks	CGPA	Course
+------------------------------------------
+Abhimanyu	96	3.80	Computer Engineering
+Shravan	99	3.70	Data Science
+Ameya	98	3.40	ELectrical Engineering
+Siddharth	92	3.40	Electrical Engineering
+Bheeshma	93	3.40	Health Informatics
